@@ -87,28 +87,3 @@ modifier onlyOwner() {
     _;
 }
 ```
-
-## Getting Started
-
-### Prerequisites
-
-- Solidity compiler (version 0.8.18 or higher)
-- Ethereum development environment (e.g., Remix, Truffle, Hardhat)
-
-### Deploying the Contract
-
-1. Open your Ethereum development environment.
-2. Compile the `Jagan` contract.
-3. Deploy the contract to your desired Ethereum network.
-
-### Interacting with the Contract
-
-1. Use the deployed contract address to interact with it.
-2. Call the `mint`, `burn`, and `transfer` functions as needed.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a comprehensive overview of the `Jagan` token smart contract, including details on the functions, modifiers, and instructions for deployment and interaction.
